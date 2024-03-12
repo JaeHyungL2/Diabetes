@@ -96,74 +96,7 @@
 <br>
 
 ## 3. 프로젝트 구조
-
-```
-├── README.md
-├── .eslintrc.js
-├── .gitignore
-├── .prettierrc.json
-├── package-lock.json
-├── package.json
-│
-├── public
-│    └── index.html
-└── src
-     ├── App.jsx
-     ├── index.jsx
-     ├── api
-     │     └── mandarinAPI.js
-     ├── asset
-     │     ├── fonts
-     │     ├── css_sprites.png
-     │     ├── logo-404.svg
-     │     └── logo-home.svg
-     │          .
-     │          .
-     │          .
-     ├── atoms
-     │     ├── LoginData.js
-     │     └── LoginState.js
-     ├── common
-     │     ├── alert
-     │     │     ├── Alert.jsx
-     │     │     └── Alert.Style.jsx
-     │     ├── button
-     │     ├── comment
-     │     ├── inputBox
-     │     ├── post
-     │     ├── postModal
-     │     ├── product
-     │     ├── tabMenu
-     │     ├── topBanner
-     │     └── userBanner
-     ├── pages
-     │     ├── addProduct
-     │     │     ├── AddProduct.jsx
-     │     │     └── AddProduct.Style.jsx
-     │     ├── chatList
-     │     ├── chatRoom
-     │     ├── emailLogin
-     │     ├── followerList
-     │     ├── followingList
-     │     ├── home
-     │     ├── join
-     │     ├── page404
-     │     ├── postDetail
-     │     ├── postEdit
-     │     ├── postUpload
-     │     ├── productEdit
-     │     ├── profile
-     │     ├── profileEdit
-     │     ├── profileSetting
-     │     ├── search
-     │     ├── snsLogin
-     │     └── splash
-     ├── routes
-     │     ├── privateRoutes.jsx
-     │     └── privateRoutesRev.jsx  
-     └── styles
-           └── Globalstyled.jsx
-```
+![image](https://github.com/JaeHyungL2/Diabetes/assets/150316684/0fe754ab-829d-4672-a0b6-9c31fc52a698)
 
 <br>
 
